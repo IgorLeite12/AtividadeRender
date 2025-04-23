@@ -1,0 +1,16 @@
+/* Estilizando o título */
+.titulo {
+    font-family: Arial, sans-serif;
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Reduzindo o tamanho da imagem */
+.image {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
